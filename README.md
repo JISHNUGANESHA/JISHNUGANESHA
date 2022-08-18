@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JISHNUGANESHA
 - 👀 I’m interested in Embedded Systems & Industrial Automation
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on STM32 ARM Cortex M4 Based Projects  
+- 💞️ I’m looking to collaborate on STM32 ARM Cortex M4 Projects  
 - 📫 How to reach me - You can can contact me via Linkein :- www.linkedin.com/in/jishnupsaju
 
 
