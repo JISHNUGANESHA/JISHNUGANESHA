@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @JISHNUGANESHA
 - 👀 I’m interested in Embedded Systems & Industrial Automation
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on building custom bootloaders & Cores for AVR 
-- 📫 How to reach me - You can can contact me via Linkein 
+- 💞️ I’m looking to collaborate on STM32 ARM Cortex M4 Based Projects  
+- 📫 How to reach me - You can can contact me via Linkein :- www.linkedin.com/in/jishnupsaju
+
 
 
 <!---
